@@ -1,0 +1,7 @@
+services:
+  windspeed-app:
+    build: .
+    ports:
+      - "8050:8050"
+    environment:
+      DATA_PATH: BERYL_test_data.nc
