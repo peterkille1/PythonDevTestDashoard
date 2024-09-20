@@ -30,8 +30,8 @@ A Python-based web dashboard application that visualizes wind speed data from a 
    ```
 
     or build and run
-    ```
-    bashdocker-compose up
+    ```bash
+    docker-compose up
     ```
 
 
