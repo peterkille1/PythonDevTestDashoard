@@ -1,0 +1,5 @@
+env
+# .env
+BERYL_test_data.zip
+__pycache__
+initial_exploratory.py
