@@ -25,11 +25,13 @@ A Python-based web dashboard application that visualizes wind speed data from a 
 
 3. **Run Docker Container**
 
-   ```docker run -p 8050:8050 windspeed-app
+   ```bash
+   docker run -p 8050:8050 windspeed-app
    ```
 
     or build and run
-    ```docker-compose up
+    ```
+    bashdocker-compose up
     ```
 
 
